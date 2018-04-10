@@ -1,0 +1,29 @@
+body{
+  font-size: 14px;
+  background-color: #ffc;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  color: teal;
+  text-align: center;
+  line-height: 7em;
+}
+h2{
+  color: lime;
+}
+a{
+  text-decoration: none;
+}
+li{
+  color: #900;
+  margin-bottom: 2em;
+}
+p{
+  color: navy;
+  word-spacing: 10px;
+  text-indemt: 3em;
+}
+h1, h2{
+  font-family: 'Cookie', cursive;
+}
+
